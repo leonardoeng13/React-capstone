@@ -125,6 +125,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-</br>
-<p class="love">Made with ❤ by <strong>Hamza</strong></p>
