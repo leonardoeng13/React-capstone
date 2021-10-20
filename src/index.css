@@ -13,7 +13,12 @@ img {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  filter: invert(26%) sepia(64%) saturate(556%) hue-rotate(7deg) brightness(91%)
+  filter:
+    invert(26%)
+    sepia(64%)
+    saturate(556%)
+    hue-rotate(7deg)
+    brightness(91%)
     contrast(99%);
 }
 
