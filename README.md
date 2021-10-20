@@ -3,17 +3,17 @@
   <a href="https://www.microverse.org/">
     <img alt="Microverse" src="https://img.shields.io/badge/-Microverse-blueviolet?style=flat-square">
   </a>
-  <a href="https://github.com/Hamzaoutdoors/Corona-Tracker__react-capstone/LICENSE">
-    <img alt="MIT Licensed" src="https://img.shields.io/github/license/Hamzaoutdoors/to-do-list?style=flat-square">
+  <a href="https://github.com/Leonardoeng13/React-capstone/LICENSE">
+    <img alt="MIT Licensed" src="https://img.shields.io/github/license/Leonardoeng13/to-do-list?style=flat-square">
   </a>
-  <a href="https://github.com/Hamzaoutdoors/Corona-Tracker__react-capstone">
-    <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Hamzaoutdoors/Corona-Tracker__react-capstone/dev?color=blue&style=flat-square">
+  <a href="https://github.com/Leonardoeng13/React-capstone">
+    <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Leonardoeng13/React-capstone/dev?color=blue&style=flat-square">
   </a>
-  <a href="https://github.com/Hamzaoutdoors/Corona-Tracker__react-capstone">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Hamzaoutdoors/Corona-Tracker__react-capstone?color=green&label=%E2%98%85%20stars%20&style=flat-square">
+  <a href="https://github.com/Leonardoeng13/React-capstone">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Leonardoeng13/React-capstone?color=green&label=%E2%98%85%20stars%20&style=flat-square">
   </a>
-  <a href="https://github.com/Hamzaoutdoors">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hamzaoutdoors?color=yellow&logo=github&style=flat-square">
+  <a href="https://github.com/Leonardoeng13">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Leonardoeng13?color=yellow&logo=github&style=flat-square">
   </a>
 </p>
 
@@ -47,9 +47,9 @@ Because COVID-19 virus affects all of us. Today it's someone else who is getting
 </br>
 
 
-About Page            |  Home Page          |  Detail Page
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/80895497/137564073-7b49d974-f0d3-4857-a2e7-2a8e0015e239.png)   |  ![](https://user-images.githubusercontent.com/80895497/137564198-df23a183-da88-46bd-a7da-5efe01e2f485.png) |  ![](https://user-images.githubusercontent.com/80895497/137647631-2bf967db-4e7c-4349-93ca-59de1714db3c.png)
+Basic UI of the project:
+
+![screenshot](app_screenshot.png);
 
  </br>
  
@@ -59,16 +59,6 @@ About Page            |  Home Page          |  Detail Page
 - React.js with Redux
 - Linters, Node.js, Git, Flexbox
 - React-Bootstrap
-
-## Live demo
-
-Live demos for this project can be found on the following Cloud Platforms :
-
-
-<div align="center">
-    <a href="https://ho-coronatracker21.netlify.app/" width = "20%"><img alt="Netlify deployement" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
- </div> 
-</br>
 
 # Getting Started with Create React App
 
@@ -114,17 +104,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 # Author
 
-👤 **Ellaouzi Hamza**
+👤 **Leonardo de Andrade**
 
-- GitHub: [hamzaoutdoors](https://github.com/Hamzaoutdoors)
-- LinkedIn : [Hamza Ellaouzi](https://www.linkedin.com/in/hamza-ellaouzi-137a45b8/)
-- Twitter: [Hamza Ellaouzi](https://twitter.com/EllaouziHamza)
+- GitHub: [Leonardoeng13](https://github.com/Leonardoeng13)
+- LinkedIn : [Leonardo de Andrade](https://www.linkedin.com/in/leonardodeandrade/)
+- Twitter: [Leo de Andrade](https://twitter.com/andrede_leo)
 
 # 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hamzaoutdoors/Corona-Tracker__react-capstone/issues).
+Feel free to check the [issues page](https://github.com/leonardoeng13/React-capstone/issues).
 
 # Show your support
 
