@@ -38,13 +38,6 @@ The webapp will have several pages :
 Because COVID-19 virus affects all of us. Today it's someone else who is getting infected; tomorrow it could be us. We need to prevent the spread of this virus. We need to build app so that people can track and follow COVID-19 virus spread and make decision.
 
 </br>
-<p align="center">
-   <kbd>
-    <img alt="logo" src="./assets/covid19-logo.gif" width="250" height="250">
-   </kbd>
-</p>
-
-</br>
 
 
 Basic UI of the project:
